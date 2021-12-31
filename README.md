@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning everything
 - 🌱 I’m currently learning computer engineer 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Farkhondeh.Arzi@gmail.com
+- 📫 How to reach me farkhondeh.arzi@gmail.com
 
 <!---
 faaz2001/faaz2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
